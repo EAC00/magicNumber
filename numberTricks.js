@@ -21,7 +21,7 @@ var original = entryNumber;
 document.write("<ul>");
 
 
-document.write("<h1>Magic Number App</h1>")
+document.write("<h1>Number Tricks App</h1>")
 
 entryNumber += 9;
 document.write("<li>I added 9 to " + temp + ". The new number is " + entryNumber + "<br><br>");
