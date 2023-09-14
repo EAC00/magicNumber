@@ -15,7 +15,7 @@ if (isNaN(entry)) {
   window.location.reload(false)
 }
 
-// The magic number begins
+// The number trick begins
 var temp = entryNumber;
 var original = entryNumber;
 document.write("<ul>");
