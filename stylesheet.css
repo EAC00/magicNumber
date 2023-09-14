@@ -1,0 +1,24 @@
+:root {
+  background-color: black;
+}
+
+
+h1 {
+  text-align: center;
+  font-family: fantasy;
+  font-style: italic;
+  color: skyblue;
+  text-shadow: 5px 5px 0 red;
+}
+
+li {
+  text-align: center;
+  list-style-type: none;
+  margin-top: 0.1%;
+  margin-bottom: 0.1%;
+  color: white;
+}
+
+button {
+  background-color: skyblue;
+}
